@@ -37,7 +37,7 @@
       "Package": "bslib",
       "Version": "0.4.2",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a7fbf03946ad741129dc81098722fca1",
       "Requirements": [
         "base64enc",
@@ -64,17 +64,17 @@
     },
     "cli": {
       "Package": "cli",
-      "Version": "3.5.0",
+      "Version": "3.6.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "eb9fc121ad9a1075c471107ef185be46",
+      "Hash": "3177a5a16c243adc199ba33117bd9657",
       "Requirements": []
     },
     "digest": {
       "Package": "digest",
       "Version": "0.6.31",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "8b708f296afd9ae69f450f9640be8990",
       "Requirements": []
     },
@@ -90,10 +90,10 @@
     },
     "evaluate": {
       "Package": "evaluate",
-      "Version": "0.19",
+      "Version": "0.20",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "5aac3cd0a3ccb1a738941796b28c26fe",
+      "Hash": "4b68aa51edd89a0e044a66e75ae3cc6c",
       "Requirements": []
     },
     "fastmap": {
@@ -106,10 +106,10 @@
     },
     "fs": {
       "Package": "fs",
-      "Version": "1.5.2",
+      "Version": "1.6.0",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "7c89603d81793f0d5486d91ab1fc6f1d",
+      "Repository": "CRAN",
+      "Hash": "0120e8c933bace1141e0b0d376b0c010",
       "Requirements": []
     },
     "glue": {
@@ -124,7 +124,7 @@
       "Package": "highr",
       "Version": "0.10",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "06230136b2d2b9ba5805e1963fa6e890",
       "Requirements": [
         "xfun"
@@ -134,7 +134,7 @@
       "Package": "htmltools",
       "Version": "0.5.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "9d27e99cc90bd701c0a7a63e5923f9b7",
       "Requirements": [
         "base64enc",
@@ -158,20 +158,19 @@
       "Package": "jsonlite",
       "Version": "1.8.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a4269a09a9b865579b2635c77e572374",
       "Requirements": []
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.41",
+      "Version": "1.42",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "6d4971f3610e75220534a1befe81bc92",
+      "Repository": "CRAN",
+      "Hash": "8329a9bcc82943c8069104d4be3ee22d",
       "Requirements": [
         "evaluate",
         "highr",
-        "stringr",
         "xfun",
         "yaml"
       ]
@@ -241,10 +240,10 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.19",
+      "Version": "2.20",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "4e29299e1f4c7eabb0b8365b338adf3c",
+      "Hash": "716fde5382293cc94a71f68c85b78d19",
       "Requirements": [
         "bslib",
         "evaluate",
@@ -260,10 +259,10 @@
     },
     "sass": {
       "Package": "sass",
-      "Version": "0.4.4",
+      "Version": "0.4.5",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "c76cbac7ca04ce82d8c38e29729987a3",
+      "Repository": "CRAN",
+      "Hash": "2bb4371a4c80115518261866eab6ab11",
       "Requirements": [
         "R6",
         "fs",
@@ -274,13 +273,13 @@
     },
     "stringi": {
       "Package": "stringi",
-      "Version": "1.7.10",
+      "Version": "1.7.12",
       "Source": "Repository",
       "Repository": "https://carpentries.r-universe.dev",
       "RemoteUrl": "https://github.com/gagolews/stringi",
-      "RemoteRef": "v1.7.10",
-      "RemoteSha": "8558da46730dae650e91150da4b5ce0d34e12a76",
-      "Hash": "f28d66a9a196f05c54850f76355d6484",
+      "RemoteRef": "v1.7.12",
+      "RemoteSha": "e4cf3176bc3943e6c477885be3445cbbd7d4bab6",
+      "Hash": "ca8bd84263c77310739d2cf64d84d7c9",
       "Requirements": []
     },
     "stringr": {
@@ -301,20 +300,20 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.43",
+      "Version": "0.44",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "facc02f3d63ed7dd765513c004c394ce",
+      "Hash": "c0f007e2eeed7722ce13d42b84a22e07",
       "Requirements": [
         "xfun"
       ]
     },
     "vctrs": {
       "Package": "vctrs",
-      "Version": "0.5.1",
+      "Version": "0.5.2",
       "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "970324f6572b4fd81db507b5d4062cb0",
+      "Repository": "CRAN",
+      "Hash": "e4ffa94ceed5f124d429a5a5f0f5b378",
       "Requirements": [
         "cli",
         "glue",
@@ -324,18 +323,18 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.36",
+      "Version": "0.37",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "f5baec54606751aa53ac9c0e05848ed6",
+      "Hash": "a6860e1400a8fd1ddb6d9b4230cc34ab",
       "Requirements": []
     },
     "yaml": {
       "Package": "yaml",
-      "Version": "2.3.6",
+      "Version": "2.3.7",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "9b570515751dcbae610f29885e025b41",
+      "Hash": "0d0056cc5383fbc240ccd0cb584bf436",
       "Requirements": []
     }
   }
