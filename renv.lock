@@ -66,7 +66,7 @@
       "Package": "cli",
       "Version": "3.6.0",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "3177a5a16c243adc199ba33117bd9657",
       "Requirements": []
     },
@@ -106,10 +106,10 @@
     },
     "fs": {
       "Package": "fs",
-      "Version": "1.6.0",
+      "Version": "1.6.1",
       "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "0120e8c933bace1141e0b0d376b0c010",
+      "Repository": "RSPM",
+      "Hash": "f4dcd23b67e33d851d2079f703e8b985",
       "Requirements": []
     },
     "glue": {
@@ -275,10 +275,7 @@
       "Package": "stringi",
       "Version": "1.7.12",
       "Source": "Repository",
-      "Repository": "https://carpentries.r-universe.dev",
-      "RemoteUrl": "https://github.com/gagolews/stringi",
-      "RemoteRef": "v1.7.12",
-      "RemoteSha": "e4cf3176bc3943e6c477885be3445cbbd7d4bab6",
+      "Repository": "RSPM",
       "Hash": "ca8bd84263c77310739d2cf64d84d7c9",
       "Requirements": []
     },
@@ -312,7 +309,7 @@
       "Package": "vctrs",
       "Version": "0.5.2",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "e4ffa94ceed5f124d429a5a5f0f5b378",
       "Requirements": [
         "cli",
