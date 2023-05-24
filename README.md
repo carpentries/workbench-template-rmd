@@ -45,7 +45,7 @@ complete the initial configuration of a new lesson repository built from this te
    - `lesson`
    - the life cycle of the lesson (e.g. `pre-alpha`)
    - the human language the lesson is written in (e.g. `deutsch`)
-**1. Adjust the name of the `.Rproj` file.**
+1. **Adjust the name of the `.Rproj` file.**
    It is simplest to make this match the name of the repository.
 1. **Adjust the 
    `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `LICENSE.md` files**
