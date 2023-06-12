@@ -50,8 +50,8 @@ There are many ways to contribute, from writing new exercises and improving
 existing ones to updating or filling in the documentation and submitting [bug
 reports][issues] about things that do not work, are not clear, or are missing.
 If you are looking for ideas, please see [the list of issues for this
-repository][repo], or the issues for [Data Carpentry][dc-issues], [Library
-Carpentry][lc-issues], and [Software Carpentry][swc-issues] projects.
+repository][repo-issues], or the issues for [Data Carpentry][dc-issues],
+[Library Carpentry][lc-issues], and [Software Carpentry][swc-issues] projects.
 
 Comments on issues and reviews of pull requests are just as welcome: we are
 smarter together than we are on our own. **Reviews from novices and newcomers
@@ -113,7 +113,7 @@ email][contact].
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
-[how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
+[how-contribute]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://carpentries.org/help-wanted-issues/
 [lc-issues]: https://github.com/issues?q=user%3ALibraryCarpentry
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
