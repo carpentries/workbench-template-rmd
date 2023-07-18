@@ -81,14 +81,14 @@
     },
     "digest": {
       "Package": "digest",
-      "Version": "0.6.31",
+      "Version": "0.6.32",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
       "Requirements": [
         "R",
         "utils"
       ],
-      "Hash": "8b708f296afd9ae69f450f9640be8990"
+      "Hash": "011ce1464a4716c488f4fc649c3d4d50"
     },
     "ellipsis": {
       "Package": "ellipsis",
@@ -193,13 +193,13 @@
     },
     "jsonlite": {
       "Package": "jsonlite",
-      "Version": "1.8.5",
+      "Version": "1.8.7",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "methods"
       ],
-      "Hash": "3ee4d9899e4db3e976fc82b98d24a31a"
+      "Hash": "266a20443ca13c65688b2116d5220f76"
     },
     "knitr": {
       "Package": "knitr",
@@ -294,7 +294,7 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.22",
+      "Version": "2.23",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -314,7 +314,7 @@
         "xfun",
         "yaml"
       ],
-      "Hash": "75a01be060d800ceb14e32c666cacac9"
+      "Hash": "79f14e53725f28900d936f692bfdd69f"
     },
     "sass": {
       "Package": "sass",
@@ -335,13 +335,17 @@
       "Version": "1.7.12",
       "Source": "Repository",
       "Repository": "RSPM",
+      "RemoteType": "repository",
+      "RemoteUrl": "https://github.com/gagolews/stringi",
+      "RemoteRef": "v1.7.12",
+      "RemoteSha": "e4cf3176bc3943e6c477885be3445cbbd7d4bab6",
       "Requirements": [
         "R",
         "stats",
         "tools",
         "utils"
       ],
-      "Hash": "ca8bd84263c77310739d2cf64d84d7c9"
+      "Hash": "832ef2a01603f8f5b4f2af024080d5d9"
     },
     "stringr": {
       "Package": "stringr",
