@@ -6,7 +6,7 @@ This lesson is a template lesson that uses [The Carpentries Workbench][workbench
 
 To use this template to start a new lesson repository, 
 make sure you're logged into Github.   
-Visit https://github.com/carpentries/workbench-template-md/generate
+Visit https://github.com/carpentries/workbench-template-rmd/generate
 and follow the instructions.
 Checking the 'Include all branches' option will save some time waiting for the first website build
 when your new repository is initialised.
@@ -65,7 +65,7 @@ complete the initial configuration of a new lesson repository built from this te
       you should ensure that the copyright information 
       provided in the license file is accurate for your project.
 1. **Update this README with 
-   [relevant information about your lesson](https://carpentries.github.io/lesson-development-training/26-external.html#readme)**
+   [relevant information about your lesson](https://carpentries.github.io/lesson-development-training/collaborating-newcomers.html#readme)**
    and delete this section.
 
 [workbench]: https://carpentries.github.io/sandpaper-docs/
