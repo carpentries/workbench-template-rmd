@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Lesson Title' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: ~ # FIXME: ( ~ means empty, replace with date formatted as above)
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries' # FIXME
