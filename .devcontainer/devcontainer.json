@@ -11,7 +11,8 @@
         "context": ".."
     },
     "postCreateCommand": {
-        "lesson_deps": "sudo Rscript /home/rstudio/.workbench/setup_lesson_deps.R",
+        "pre_echo": "echo 'Installing lesson prerequisites - please wait...'",
+        "lesson_deps": "Rscript /home/rstudio/.workbench/setup_lesson_deps.R",
         "fortify": "Rscript /home/rstudio/.workbench/fortify_renv_cache.R"
     }
 }
